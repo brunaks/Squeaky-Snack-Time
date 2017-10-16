@@ -1,0 +1,19 @@
+// Posições das sementes
+
+// Top row - left to right
+this.seed = game.add.sprite(40, 30, 'semente'); 
+this.seed = game.add.sprite(175, 30, 'semente');
+this.seed = game.add.sprite(300, 30, 'semente');
+this.seed = game.add.sprite(440, 30, 'semente');
+
+// Middle row  - left to right
+this.seed = game.add.sprite(40, 200, 'semente');
+this.seed = game.add.sprite(300, 200, 'semente');
+this.seed = game.add.sprite(545, 200, 'semente');
+
+// Bottom row - left to right
+this.seed = game.add.sprite(40, 340, 'semente'); 
+this.seed = game.add.sprite(175, 280, 'semente');
+this.seed = game.add.sprite(300, 340, 'semente');
+this.seed = game.add.sprite(440, 280, 'semente');
+this.seed = game.add.sprite(545, 340, 'semente');
